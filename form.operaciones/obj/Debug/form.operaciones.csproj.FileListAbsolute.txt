@@ -1,0 +1,13 @@
+C:\Users\root\Documents\Universidad\form.operaciones\form.operaciones\bin\Debug\form.operaciones.exe.config
+C:\Users\root\Documents\Universidad\form.operaciones\form.operaciones\bin\Debug\form.operaciones.exe
+C:\Users\root\Documents\Universidad\form.operaciones\form.operaciones\bin\Debug\form.operaciones.pdb
+C:\Users\root\Documents\Universidad\form.operaciones\form.operaciones\obj\Debug\form.operaciones.csprojAssemblyReference.cache
+C:\Users\root\Documents\Universidad\form.operaciones\form.operaciones\obj\Debug\form.operaciones.formulaGeneral.resources
+C:\Users\root\Documents\Universidad\form.operaciones\form.operaciones\obj\Debug\form.operaciones.main.resources
+C:\Users\root\Documents\Universidad\form.operaciones\form.operaciones\obj\Debug\form.operaciones.Properties.Resources.resources
+C:\Users\root\Documents\Universidad\form.operaciones\form.operaciones\obj\Debug\form.operaciones.csproj.GenerateResource.cache
+C:\Users\root\Documents\Universidad\form.operaciones\form.operaciones\obj\Debug\form.operaciones.csproj.CoreCompileInputs.cache
+C:\Users\root\Documents\Universidad\form.operaciones\form.operaciones\obj\Debug\form.operaciones.exe
+C:\Users\root\Documents\Universidad\form.operaciones\form.operaciones\obj\Debug\form.operaciones.pdb
+C:\Users\root\Documents\Universidad\form.operaciones\form.operaciones\obj\Debug\form.operaciones.Arriendos.resources
+C:\Users\root\Documents\Universidad\form.operaciones\form.operaciones\obj\Debug\form.operaciones.Divisas.resources
